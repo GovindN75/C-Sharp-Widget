@@ -1,0 +1,20 @@
+C:\Users\HP USER\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\NairGovindUnitConverter.csprojAssemblyReference.cache
+C:\Users\HP USER\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\HP USER\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\NairGovindUnitConverter.csproj.GenerateResource.cache
+C:\Users\HP USER\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\NairGovindUnitConverter.csproj.CoreCompileInputs.cache
+C:\Users\HP USER\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\HP USER\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\HP USER\source\repos\WindowsFormsApp4\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\HP USER\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\HP USER\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\HP USER\source\repos\WindowsFormsApp4\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+C:\Users\HP USER\Desktop\C# Widget APp\NairGovindUnitConverter\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+C:\Users\HP USER\Desktop\C# Widget APp\NairGovindUnitConverter\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+C:\Users\HP USER\Desktop\C# Widget APp\NairGovindUnitConverter\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
+C:\Users\HP USER\Desktop\C# Widget APp\NairGovindUnitConverter\WindowsFormsApp4\obj\Debug\NairGovindUnitConverter.csprojAssemblyReference.cache
+C:\Users\HP USER\Desktop\C# Widget APp\NairGovindUnitConverter\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+C:\Users\HP USER\Desktop\C# Widget APp\NairGovindUnitConverter\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+C:\Users\HP USER\Desktop\C# Widget APp\NairGovindUnitConverter\WindowsFormsApp4\obj\Debug\NairGovindUnitConverter.csproj.GenerateResource.cache
+C:\Users\HP USER\Desktop\C# Widget APp\NairGovindUnitConverter\WindowsFormsApp4\obj\Debug\NairGovindUnitConverter.csproj.CoreCompileInputs.cache
+C:\Users\HP USER\Desktop\C# Widget APp\NairGovindUnitConverter\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+C:\Users\HP USER\Desktop\C# Widget APp\NairGovindUnitConverter\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
